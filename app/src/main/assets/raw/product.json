@@ -1,0 +1,14 @@
+[
+	{"productId" : "P01", "productName" : "Orange01", "categoryId" : "C01", "rating" : "4.2", "description" : "This is an Orange 01", "price" : 23},
+	{"productId" : "P02", "productName" : "Orange02", "categoryId" : "C01", "rating" : "3.1", "description" : "This is an Orange 02", "price" : 33},
+	{"productId" : "P03", "productName" : "Orange03", "categoryId" : "C01", "rating" : "4.7", "description" : "This is an Orange 03", "price" : 55},
+	{"productId" : "P04", "productName" : "Apple01", "categoryId" : "C02", "rating" : "5.6", "description" : "This is an Apple 01", "price" : 81},
+	{"productId" : "P05", "productName" : "Apple02", "categoryId" : "C02", "rating" : "7.2", "description" : "This is an Apple 02", "price" : 71},
+	{"productId" : "P06", "productName" : "Apple03", "categoryId" : "C02", "rating" : "4.4", "description" : "This is an Apple 03", "price" : 71},
+	{"productId" : "P07", "productName" : "Banana01", "categoryId" : "C03", "rating" : "3.9", "description" : "This is an Banana 01", "price" : 82},
+	{"productId" : "P08", "productName" : "Banana02", "categoryId" : "C03", "rating" : "4.9", "description" : "This is an Banana 02", "price" : 73},
+	{"productId" : "P09", "productName" : "Banana03", "categoryId" : "C03", "rating" : "5.6", "description" : "This is an Banana 03", "price" : 112},
+	{"productId" : "P010", "productName" : "Peach01", "categoryId" : "C04", "rating" : "7.8", "description" : "This is an Peach 01", "price" : 92},
+	{"productId" : "P011", "productName" : "Peach02", "categoryId" : "C04", "rating" : "7.2", "description" : "This is an Peach 02", "price" : 232},
+	{"productId" : "P012", "productName" : "Peach03", "categoryId" : "C04", "rating" : "8.3", "description" : "This is an Peach 03", "price" : 32}
+]
